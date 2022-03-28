@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go release iPaint" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="iPaint" />
+    <working_directory value="$PROJECT_DIR$/bin" />
+    <go_parameters value="-ldflags -H=windowsgui" />
+    <kind value="DIRECTORY" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/launcher.go" />
+    <output_directory value="$PROJECT_DIR$/bin" />
+    <method v="2" />
+  </configuration>
+</component>
